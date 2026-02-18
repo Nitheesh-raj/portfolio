@@ -36,7 +36,7 @@ const ProjectsSection = () => (
       <h2 className="mb-10 text-center text-3xl font-bold text-foreground">Projects</h2>
       <div className="grid gap-6 md:grid-cols-2">
         {projects.map((p) => (
-          <Card key={p.title} className="flex flex-col border-border bg-card transition-shadow hover:shadow-md">
+          <Card key={p.title} className="flex flex-col transition-glow hover:border-primary/60 hover:shadow-xl hover:shadow-primary/20">
             <CardHeader>
               <CardTitle className="text-xl">{p.title}</CardTitle>
               <CardDescription>{p.description}</CardDescription>
