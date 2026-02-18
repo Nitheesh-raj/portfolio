@@ -3,6 +3,12 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 
 const projects = [
   {
+    title: "TechCart",
+    description:
+      "A full-stack e-commerce application with product browsing, cart management, and secure checkout functionality.",
+    tech: ["React.js", "Tailwind CSS", "Node.js", "MongoDB", "Supabase", "JWT", "Vercel"],
+  },
+  {
     title: "Chat Application",
     description:
       "A real-time messaging application with user authentication, private chats, and instant message delivery.",
