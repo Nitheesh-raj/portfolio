@@ -5,7 +5,7 @@ const projects = [
   {
     title: "TechCart",
     description:
-      "A full-stack e-commerce application with product browsing, cart management, and secure checkout functionality.",
+      "Developed TechCart, a responsive electronics store web application showcasing products with modern UI design, built using React.js and Tailwind CSS with backend API integration using Node.js.",
     tech: ["React.js", "Tailwind CSS", "Node.js", "MongoDB", "Supabase", "JWT", "Vercel"],
   },
   {
