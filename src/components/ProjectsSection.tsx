@@ -9,8 +9,8 @@ const projects = [
     description:
       "Developed TechCart, a responsive electronics store web application showcasing products with modern UI design, built using React.js and Tailwind CSS with backend API integration using Node.js.",
     tech: ["React.js", "Tailwind CSS", "Node.js", "MongoDB", "Supabase", "JWT", "Vercel"],
-    demo: "https://techcart-demo.vercel.app",
-    github: "https://github.com/nitheeshraj/techcart",
+    demo: "https://mohan-electronics-showcase-xgje.vercel.app/",
+    github: "https://github.com/Nitheesh-raj/mohan-electronics-showcase",
   },
   {
     title: "Chat Application",
